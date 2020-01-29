@@ -28,7 +28,7 @@ Now just wait the magic happens.
 
 
 
-I divided the project into stages.
+I divided the project into the following stages.
 
 
 
