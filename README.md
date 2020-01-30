@@ -18,6 +18,8 @@ Then you need to run the project with python, in this case, you need to install 
 
 For now at least.
 
+Don't forget to alter the path of the webdriver file in the code and the user and message you want to send!
+
 After running you need to wait for the QR code to appear and scan it. I made the program wait 60 seconds for you to scan it.
 
 Now just wait the magic happens.
